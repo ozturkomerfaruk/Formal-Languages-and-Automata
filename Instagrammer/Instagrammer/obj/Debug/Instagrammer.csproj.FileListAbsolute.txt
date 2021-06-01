@@ -1,0 +1,56 @@
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\bin\Debug\Instagrammer.exe.config
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\bin\Debug\Instagrammer.exe
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\bin\Debug\Instagrammer.pdb
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csprojAssemblyReference.cache
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.Properties.Resources.resources
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.GenerateResource.cache
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.CoreCompileInputs.cache
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.exe
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.pdb
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\bin\Debug\WebDriver.dll
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\bin\Debug\WebDriver.xml
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.FormGirisEkran.resources
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.CopyComplete
+D:\projeler\Instagram Projesi\Instagrammer\Instagrammer\obj\Debug\Instagrammer.FormTakipBilgiSistemi.resources
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\bin\Debug\Instagrammer.exe.config
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\bin\Debug\Instagrammer.exe
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\bin\Debug\Instagrammer.pdb
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\bin\Debug\WebDriver.dll
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\bin\Debug\WebDriver.xml
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.FormGirisEkran.resources
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.FormTakipBilgiSistemi.resources
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.Properties.Resources.resources
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.CopyComplete
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.exe
+C:\Users\fatih\Desktop\Instagrammer\Instagrammer\obj\Debug\Instagrammer.pdb
+D:\projeler\Instagrammer son\Instagrammer\bin\Debug\Instagrammer.exe.config
+D:\projeler\Instagrammer son\Instagrammer\bin\Debug\Instagrammer.exe
+D:\projeler\Instagrammer son\Instagrammer\bin\Debug\Instagrammer.pdb
+D:\projeler\Instagrammer son\Instagrammer\bin\Debug\WebDriver.dll
+D:\projeler\Instagrammer son\Instagrammer\bin\Debug\WebDriver.xml
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.csprojAssemblyReference.cache
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.FormGirisEkran.resources
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.FormTakipBilgiSistemi.resources
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.Properties.Resources.resources
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.csproj.GenerateResource.cache
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.csproj.CoreCompileInputs.cache
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.csproj.CopyComplete
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.exe
+D:\projeler\Instagrammer son\Instagrammer\obj\Debug\Instagrammer.pdb
+D:\projeler\Instagrammer\Instagrammer\bin\Debug\Instagrammer.exe.config
+D:\projeler\Instagrammer\Instagrammer\bin\Debug\Instagrammer.exe
+D:\projeler\Instagrammer\Instagrammer\bin\Debug\Instagrammer.pdb
+D:\projeler\Instagrammer\Instagrammer\bin\Debug\WebDriver.dll
+D:\projeler\Instagrammer\Instagrammer\bin\Debug\WebDriver.xml
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csprojAssemblyReference.cache
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.FormGirisEkran.resources
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.FormTakipBilgiSistemi.resources
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.Properties.Resources.resources
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.GenerateResource.cache
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.CoreCompileInputs.cache
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.csproj.CopyComplete
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.exe
+D:\projeler\Instagrammer\Instagrammer\obj\Debug\Instagrammer.pdb

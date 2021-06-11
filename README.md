@@ -1,2 +1,2 @@
 # Formal-Languages-and-Automata
-Instagram bot realized within the scope of formal languages and automata assignment
+Bilgisayar mühendisliği 2. sınıf 2. dönem projesidir.
